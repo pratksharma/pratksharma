@@ -26,9 +26,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
-
-##
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prateeksharma45.prateeksharma45&"  />
-</div>
