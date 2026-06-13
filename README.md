@@ -4,7 +4,7 @@
 <h3 align="left">A full stack developer based in Delhi, India 📍</h3>
 <p align="left">I'm Prateek, a full stack web developer working mainly with the MERN stack. I build web applications from backend to frontend, focusing on clean structure and smooth user experiences.</p>
 
-[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pratk_sharma) [![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/pratksharma) [![](https://img.shields.io/badge/prateek.codes-000000?style=for-the-badge)](https://prateek.codes)
+[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pratk_sharma) [![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/pratksharma) [![](https://img.shields.io/badge/pratk.in-000000?style=for-the-badge)](https://pratk.in)
 
 <h3 align="left">My Tech Stack</h3>
 <div align="left">
