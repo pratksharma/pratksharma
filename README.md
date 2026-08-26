@@ -25,12 +25,6 @@
   </tr>
 </table>
 
-<!-- <p align="center" style="white-space: nowrap;">
-  <a href="https://pratk.in"><img src="https://img.shields.io/badge/pratk.in-000000?style=for-the-badge"></a>&nbsp;&nbsp;<a href="https://x.com/pratk_sharma"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/pratksharma"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p> -->
-
-<br />
-  
-<div align="center">
-  <a href="https://pratk.in">Website</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://x.com/pratk_sharma">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/pratksharma">LinkedIn</a>
-</div>
+<p align="center" style="white-space: nowrap;">
+  <a href="https://pratk.in"><img src="https://img.shields.io/badge/pratk.in-000000?style=for-the-badge"></a>&nbsp;&nbsp;<a href="https://x.com/prateek_shrm"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/prateekshrm"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
