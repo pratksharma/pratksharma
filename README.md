@@ -12,13 +12,13 @@
   <tr>
     <td width="50%" valign="top">
       <sub>01 / READING</sub><br /><br />
-      <a href="https://github.com/prateekshrm/ReadWiki"><strong>ReadWiki</strong></a><br />
+      <a href="https://github.com/prateekshrm/readwiki"><strong>ReadWiki</strong></a><br />
       Modern Wikipedia reader with a clean, distraction-free reading experience.<br /><br />
       <sub>React Native · Expo · TypeScript</sub>
     </td>
     <td width="50%" valign="top">
       <sub>02 / COMMUNITY</sub><br /><br />
-      <a href="https://github.com/prateekshrm/PariSar"><strong>PariSar</strong></a><br />
+      <a href="https://github.com/prateekshrm/parisar"><strong>PariSar</strong></a><br />
       Comprehensive residential society management with visitors, complaints, and amenities.<br /><br />
       <sub>React Native · Express · MongoDB</sub>
     </td>
